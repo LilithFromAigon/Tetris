@@ -1,0 +1,14 @@
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\bin\Debug\net6.0\Tetris4.exe
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\bin\Debug\net6.0\Tetris4.deps.json
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\bin\Debug\net6.0\Tetris4.runtimeconfig.json
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\bin\Debug\net6.0\Tetris4.dll
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\bin\Debug\net6.0\Tetris4.pdb
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\obj\Debug\net6.0\Tetris4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\obj\Debug\net6.0\Tetris4.AssemblyInfoInputs.cache
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\obj\Debug\net6.0\Tetris4.AssemblyInfo.cs
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\obj\Debug\net6.0\Tetris4.csproj.CoreCompileInputs.cache
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\obj\Debug\net6.0\Tetris4.dll
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\obj\Debug\net6.0\refint\Tetris4.dll
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\obj\Debug\net6.0\Tetris4.pdb
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\obj\Debug\net6.0\Tetris4.genruntimeconfig.cache
+C:\Работа РИТМ\Разработка\Tetris4\Tetris4\obj\Debug\net6.0\ref\Tetris4.dll
